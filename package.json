@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "eslint": "^8.29.0",
     "framer-motion": "^7.6.19",
     "html-react-parser": "^3.0.4",
     "moment": "^2.29.4",

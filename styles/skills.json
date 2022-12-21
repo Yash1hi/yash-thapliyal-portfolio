@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Coding",
+    "skills": [
+      { "name": "C++", "image": "/skillsLogos/C++.png", "level": "Intermediate"},
+      { "name": "CSS", "image": "/skillsLogos/CSS.png", "level": "Intermediate"},
+      { "name": "Django", "image": "/skillsLogos/Django.svg", "level": "Intermediate"},
+      { "name": "HTML", "image": "/skillsLogos/HTML.png", "level": "Intermediate"},
+      { "name": "Java", "image": "/skillsLogos/Java.png", "level": "Intermediate"},
+      { "name": "Java Script", "image": "/skillsLogos/Javascript.png", "level": "Intermediate"},
+      { "name": "NextJS", "image": "/skillsLogos/NextJS.png", "level": "Intermediate"},
+      { "name": "Python", "image": "/skillsLogos/Python.png", "level": "Intermediate"},
+      { "name": "React", "image": "/skillsLogos/React.png", "level": "Intermediate"},
+      { "name": "SASS", "image": "/skillsLogos/SASS.png", "level": "Intermediate"},
+      { "name": "Tailwind CSS", "image": "/skillsLogos/Tailwind.png", "level": "Intermediate"}
+    ]
+  },
+  {
+    "name": "Design",
+    "skills": [
+      { "name": "After Effects", "image": "/skillsLogos/AfterEffects.png", "level": "Intermediate"},
+      { "name": "Canva", "image": "/skillsLogos/Canva.png", "level": "Intermediate"},
+      { "name": "Figma", "image": "/skillsLogos/Figma.svg", "level": "Intermediate"},
+      { "name": "Illustrator", "image": "/skillsLogos/Illustrator.png", "level": "Intermediate"},
+      { "name": "Indesign", "image": "/skillsLogos/Indesign.png", "level": "Intermediate"},
+      { "name": "Lightroom", "image": "/skillsLogos/Lightroom.png", "level": "Intermediate"},
+      { "name": "Notion", "image": "/skillsLogos/Notion.png", "level": "Intermediate"},
+      { "name": "Photoshop", "image": "/skillsLogos/Photoshop.png", "level": "Intermediate"},
+      { "name": "Premiere Pro", "image": "/skillsLogos/Premiere.png", "level": "Intermediate"}
+    ]
+  }
+]
