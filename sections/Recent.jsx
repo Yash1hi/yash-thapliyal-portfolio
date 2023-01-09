@@ -21,8 +21,8 @@ export const Recent = () => {
                 <div className='text-[50px] text-gray-300'>
                     My Recent Projects
                 </div>
-                <Link href='/Writing' className='mt-4 text-xl text-gray-600 font-bold bg-gray-300 px-5 py-2 rounded-full mb-3 hidden md:block'>
-                    See All Projects
+                <Link href='/projects/coding' className='mt-4 text-xl text-gray-600 font-bold bg-gray-300 px-5 py-2 rounded-full mb-3 hidden md:block'>
+                    See More Projects
                 </Link>
             </div>
             <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 ">

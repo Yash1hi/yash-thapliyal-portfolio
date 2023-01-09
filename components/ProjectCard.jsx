@@ -11,13 +11,18 @@ const ProjectCard = ({ project }) => {
         // />
     //   </div>
   return (
-    <div className='container bg-gray-600 shadow-lg rounded-lg pb-1 mb-3 min-h-full max-h-full w-full overflow-hidden'>
-        <a href={ project.link } target="_blank" rel="noopener noreferrer">
+    <div className='group container bg-gray-600 shadow-lg rounded-lg pb-1 mb-3 min-h-full max-h-full w-full overflow-hidden'>
+        <a href={ project.link } target="_blank" rel="noopener noreferrer" className="container relative">
             <img
                 src={ project.image } 
                 alt={ project.title }
-                className='object-top h-80 w-full object-cover rounded-t-lg shadow-lg transition duration-500 transform hover:brightness-[0.25]'
+                className='object-top h-80 w-full object-cover rounded-t-lg shadow-lg transition duration-500 transform group-hover:brightness-[0.25]'
             />
+            <div className="bg-white font-bold w-[30%] h-[10%] flex justify-center items-center 
+                            absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 
+                            opacity-0 transition duration-500 transform group-hover:opacity-80 rounded-full">
+                See More
+            </div>
         </a>
         <div className='flex flex-col text-left justify-start pt-3 px-5 text-gray-300'>
             <div className='h-8 w-full overflow-hidden truncate ...'>
