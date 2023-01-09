@@ -11,7 +11,7 @@
       { "name": "NextJS", "image": "/skillsLogos/NextJS.png", "level": "Intermediate"},
       { "name": "Python", "image": "/skillsLogos/Python.png", "level": "Intermediate"},
       { "name": "React", "image": "/skillsLogos/React.png", "level": "Intermediate"},
-      { "name": "SASS", "image": "/skillsLogos/SASS.png", "level": "Intermediate"},
+      { "name": "SASS", "image": "/skillsLogos/Sass.png", "level": "Intermediate"},
       { "name": "Tailwind CSS", "image": "/skillsLogos/Tailwind.png", "level": "Intermediate"}
     ]
   },

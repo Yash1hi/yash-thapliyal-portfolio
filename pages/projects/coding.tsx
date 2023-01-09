@@ -5,16 +5,8 @@ import Link from 'next/link'
 import { ProjectCard } from '../../components'
 import { Navbar } from '../../sections';
 import { navVarients } from '../../utils/motion'
+import Projects from '../../data/codingProjects.json'
 
-const Projects = [
-    { 
-        title: 'Take our November news quiz', 
-        link: 'https://elestoque.org/2022/12/16/news/take-our-november-news-quiz-2/', 
-        image: 'https://elestoque.org/wp-content/uploads/2022/12/Featured_Image-900x643.png', 
-        excerpt: 'Test your knowledge of key events last month', 
-        tags: []
-    },
-]
 
 const coding : NextPage = () => {
   return (

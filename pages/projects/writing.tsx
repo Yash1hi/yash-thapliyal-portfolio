@@ -5,51 +5,7 @@ import Link from 'next/link'
 import { ProjectCard } from '../../components'
 import { Navbar } from '../../sections';
 import { navVarients } from '../../utils/motion'
-
-const Projects = [
-    { 
-        title: 'Take our November news quiz', 
-        link: 'https://elestoque.org/2022/12/16/news/take-our-november-news-quiz-2/', 
-        image: 'https://elestoque.org/wp-content/uploads/2022/12/Featured_Image-900x643.png', 
-        excerpt: 'Test your knowledge of key events last month', 
-        tags: []
-    },
-    { 
-        title: 'Girls Soccer defeats Capuchino High School 7-0', 
-        link: 'https://elestoque.org/2022/12/12/sports/girls-soccer-defeats-capuchino-high-school-7-0/', 
-        image: 'https://elestoque.org/wp-content/uploads/2022/12/DSC6733-900x646.jpg', 
-        excerpt: 'Matadors dominate in their second game of the league season', 
-        tags: []
-    },
-    { 
-        title: 'Take our October news quiz', 
-        link: 'https://elestoque.org/2022/11/09/news/october-news-quiz/', 
-        image: 'https://elestoque.org/wp-content/uploads/2022/11/finalbackground-1-900x506.png', 
-        excerpt: 'Test your knowledge of key events last month', 
-        tags: []
-    },
-    { 
-        title: 'Take our September news quiz', 
-        link: 'https://elestoque.org/2022/10/19/news/take-our-september-news-quiz-2/', 
-        image: 'https://elestoque.org/wp-content/uploads/2022/10/finalbackground-900x506.png', 
-        excerpt: 'Test your knowledge of key events last month', 
-        tags: []
-    },
-    { 
-        title: 'Matadors in Focus: Annika Polavarapu', 
-        link: 'https://elestoque.org/2022/10/17/matadors-in-focus/matadors-in-focus-annika-polavarapu/', 
-        image: 'https://elestoque.org/wp-content/uploads/2022/10/MIF_Anika-900x600.jpg', 
-        excerpt: '', 
-        tags: []
-    },
-    { 
-        title: 'Sigma supremacy sweeps MVHS', 
-        link: 'https://elestoque.org/2022/10/12/opinion/sigma-supremacy-sweeps-mvhs/', 
-        image: 'https://elestoque.org/wp-content/uploads/2022/10/Screen_Shot_2022_08_23_at_4.22.21_PM.0-900x600.webp', 
-        excerpt: 'Examining the negative impact of sigma male culture on the MVHS community', 
-        tags: []
-    },
-]
+import Projects from '../../data/writingProjects.json'
 
 export const writing : NextPage = () => {
   return (

@@ -2,7 +2,7 @@ import React from 'react'
 import { motion } from 'framer-motion'
 import Link from 'next/link'
 import { SkillCircle } from '../components'
-import skills from "../styles/skills.json";
+import skills from "../data/skills.json";
 
 import { navVarients } from '../utils/motion'
 
