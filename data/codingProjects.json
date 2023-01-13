@@ -1,9 +1,23 @@
 [
     { 
-        "title": "Take our November news quiz", 
-        "link": "https://elestoque.org/2022/12/16/news/take-our-november-news-quiz-2/", 
-        "image": "https://elestoque.org/wp-content/uploads/2022/12/Featured_Image-900x643.png", 
-        "excerpt": "Test your knowledge of key events last month", 
+        "title": "News Quiz Website", 
+        "link": "https://el-estoque-news-quiz.vercel.app/", 
+        "image": "/projectImages/EENewsQuiz.png", 
+        "excerpt": "A website built I made to create, host, and organize quizzes without having to code", 
+        "tags": []
+    },
+    { 
+        "title": "Pokémon 112", 
+        "link": "https://github.com/Yash1hi/112TermProject", 
+        "image": "/projectImages/Pokemon112.png", 
+        "excerpt": "An interactive pokemon clone coded in python with procedural generation for CMU's F112 class", 
+        "tags": []
+    },
+    { 
+        "title": "Portfolio", 
+        "link": "https://github.com/Yash1hi/yash-thapliyal-portfolio", 
+        "image": "/projectImages/Portfolio.png", 
+        "excerpt": "This portfolio's source code. Created with NextJS, Typescript, TailwindCSS, and Framer-Motion", 
         "tags": []
     }
 ]

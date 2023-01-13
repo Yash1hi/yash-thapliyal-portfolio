@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "axios": "^1.2.2",
     "eslint": "^8.29.0",
     "framer-motion": "^7.6.19",
     "html-react-parser": "^3.0.4",
@@ -13,8 +15,10 @@
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-hook-form": "^7.41.5",
     "react-multi-carousel": "^2.8.2",
-    "sass": "^1.56.2"
+    "sass": "^1.56.2",
+    "sendgrid": "^5.2.3"
   },
   "devDependencies": {
     "@types/node": "18.11.3",

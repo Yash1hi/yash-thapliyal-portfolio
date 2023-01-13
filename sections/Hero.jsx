@@ -5,6 +5,11 @@ import Link from 'next/link'
 import { navVarients } from '../utils/motion'
 import styles from '../styles'
 
+/* 
+This is the Hero section of the page that shows up on the homepage. It is 
+composed of an image of myself alongside some text that gives basic descriptions
+about me. Ideally, it will be animated at some point to look good on load.
+*/
 const Hero = () => {
   const heroText = 'text-gray-700 text-[35px] md:text-[40px] leading-tight';
   return (
@@ -12,6 +17,7 @@ const Hero = () => {
         className='sm:px-16 px-8 py-5'
     >
         <div className='container flex mx-auto justify-center py-4 gap-4'>
+          {/* This is the image of myself that is on the left side*/}
           <div>
             <img 
               src="/Yash_Headshot_NoBG.png" 

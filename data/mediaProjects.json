@@ -1,5 +1,12 @@
 [
     { 
+        "title": "Boy's Basketball 63-53", 
+        "link": "https://www.instagram.com/p/Cm5W2NpLI2y/", 
+        "image": "/mediaImages/BBB_12-31.jpg", 
+        "excerpt": "Varsity Boys Basketball fell 63-53 against Lynbrook High School on Saturday, Dec. 31.", 
+        "tags": []
+    },
+    { 
         "title": "Signing Santa", 
         "link": "https://www.instagram.com/p/CmApjwGLiLE/", 
         "image": "https://lh6.googleusercontent.com/eWO42UdSu5jGYzn5mT0RT_Ouf0EBJS52uoTExCZeZHL2rIfUpTDt_j9CZhmyb6J798g=w2400", 
@@ -18,6 +25,83 @@
         "link": "https://www.instagram.com/p/Cl44VUlLdp7/", 
         "image": "https://drive.google.com/uc?export=view&id=1ZmgNuhthWYWf0K1mmfPeTuz8-KK9Q8Fw", 
         "excerpt": "MVHS hosted a finals prep event on Dec. 7 during lunch at the Rally Court.", 
+        "tags": []
+    },
+    { 
+        "title": "Peter and the Starcatcher", 
+        "link": "https://www.instagram.com/p/ClE_dKlSVMw/", 
+        "image": "/mediaImages/Peter_And_The_Starcatcher.jpg", 
+        "excerpt": "MV Drama, with support from Variations and Bella Voce, hosted the opening night for its fall musical “Peter and the Starcatcher” in the auditorium on Wednesday, Nov. 16.", 
+        "tags": []
+    },
+    { 
+        "title": "Matadors in Focus: Kalani Poulter", 
+        "link": "https://www.instagram.com/p/CkKCeaXvyQH/", 
+        "image": "/mediaImages/MIF_Kalani.jpg", 
+        "excerpt": "A spotlight on Kalani Poulter, a senior who enjoys trying new activities.", 
+        "tags": []
+    },
+    { 
+        "title": "Matadors in Focus: Annika Polavarapu", 
+        "link": "https://www.instagram.com/p/Cjj2YqLrmeV/", 
+        "image": "/mediaImages/MIF_Annika.jpg", 
+        "excerpt": "A spotlight on Annika Polavarapu, a senior who is in choir and plays piano.", 
+        "tags": []
+    },
+    { 
+        "title": "Volunteer Fair", 
+        "link": "https://www.instagram.com/p/CjOyWPFPDEo/", 
+        "image": "/mediaImages/Volunteer_Fair.jpg", 
+        "excerpt": "The City of Cupertino hosted its volunteer fair for the first time in three years on Saturday, Oct. 1.", 
+        "tags": []
+    },
+    { 
+        "title": "Volleyball 3-2", 
+        "link": "https://www.instagram.com/p/CigGYD_PvQw/", 
+        "image": "/mediaImages/Volleyball_3-2.jpg", 
+        "excerpt": "Varsity Girls Volleyball defeated Cupertino High School 3-2 on Tuesday, Sept. 13.", 
+        "tags": []
+    },
+    { 
+        "title": "Man on the Street: College Applications", 
+        "link": "https://www.instagram.com/reel/Ckcp5Jop4Sm/", 
+        "image": "/mediaImages/MotS_CA.png", 
+        "excerpt": "With the first of most early college application deadlines arriving, EE reporters Jiya Singh and Yash Thapliyal ask MVHS seniors about their thoughts on their essay and application process.", 
+        "tags": []
+    },
+    { 
+        "title": "Pooch Plunge", 
+        "link": "https://www.instagram.com/p/CiV1iIqvcxS/", 
+        "image": "/mediaImages/Pooch_Plunge.jpg", 
+        "excerpt": "The City of Cupertino hosted the fifth annual Pooch Plunge at Blackberry Farm on Saturday, Sept. 10.", 
+        "tags": []
+    },
+    { 
+        "title": "Water Polo 16-10 & 8-7", 
+        "link": "https://www.instagram.com/p/CiMYIgTLKcT/", 
+        "image": "/mediaImages/Water_Polo_16-10.jpg", 
+        "excerpt": "Varsity Boys and Varsity Girls Water Polo defeated Saratoga High School 16-10 and 8-7 respectively on Tuesday, Sept. 6.", 
+        "tags": []
+    },
+    { 
+        "title": "Welcome Back Rally", 
+        "link": "https://www.instagram.com/p/CiB87-UPI_C/", 
+        "image": "/mediaImages/Welcome_Back_Rally.jpg", 
+        "excerpt": "MVHS held its Welcome Back Rally in the Gym on Friday, Sept. 2. Photo by Krish Dev.", 
+        "tags": []
+    },
+    { 
+        "title": "FUHSD Watermelon Run", 
+        "link": "https://www.instagram.com/p/Ch-00-zvIhF/", 
+        "image": "/mediaImages/Watermelon_Run.jpg", 
+        "excerpt": "MVFUHSD hosted its annual watermelon run at Fremont High School on campus for the first time since since 2018 on Wednesday, Aug. 31.", 
+        "tags": []
+    },
+    { 
+        "title": "SF Pride Parade", 
+        "link": "https://www.instagram.com/p/CfVGTkfpDR4/", 
+        "image": "/mediaImages/Pride_Parade.jpg", 
+        "excerpt": "On Sunday, June 26, San Francisco’s annual pride parade returned after a two year hiatus due to the pandemic. Photo by Krish Dev.", 
         "tags": []
     }
 ]

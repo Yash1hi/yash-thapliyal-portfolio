@@ -6,6 +6,11 @@ import skills from "../data/skills.json";
 
 import { navVarients } from '../utils/motion'
 
+/*
+This section is on the bottom area of my homepage and has a list of the 
+technologies that I know how to use. I create circles that expand on hover
+with logos to display this. Ideally, they will link to something later on.
+*/
 const Skills = () => {
   return (
     <motion.div

@@ -5,6 +5,11 @@ import Image from 'next/image'
 
 import { navVarients } from '../utils/motion'
 
+/* 
+This navbar compenent should show up at the top of each page. It displays links
+to other parts of the page and has my logo on it as well.
+*/
+
 const Navbar = () => {
   return (
     <motion.nav

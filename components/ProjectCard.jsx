@@ -11,8 +11,8 @@ const ProjectCard = ({ project }) => {
         // />
     //   </div>
   return (
-    <div className='group container bg-gray-600 shadow-lg rounded-lg pb-1 mb-3 min-h-full max-h-full w-full overflow-hidden'>
-        <a href={ project.link } target="_blank" rel="noopener noreferrer" className="container relative">
+    <div className='container bg-gray-600 shadow-lg rounded-lg pb-1 mb-3 min-h-full max-h-full w-full overflow-hidden'>
+        <a href={ project.link } target="_blank" rel="noopener noreferrer" className="container relative group">
             <img
                 src={ project.image } 
                 alt={ project.title }
