@@ -1,5 +1,5 @@
 import type { NextPage } from 'next'
-import { Navbar, } from '../sections';
+import { Navbar, Footer } from '../sections';
 
 // The homepage. Gets all of its components from other parts.
 const Contact: NextPage = () => {
@@ -9,6 +9,7 @@ const Contact: NextPage = () => {
         <div className='bg-gray-500 overflow-hidden w-screen h-screen flex justify-center'>
             <div className='text-lg text-white text-bold'>Work in Progress!</div>
         </div>
+        <Footer />
     </div>
   )
 }

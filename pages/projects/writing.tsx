@@ -3,7 +3,7 @@ import type { NextPage } from 'next'
 import { motion } from 'framer-motion'
 import Link from 'next/link'
 import { ProjectCard } from '../../components'
-import { Navbar } from '../../sections';
+import { Navbar, Footer } from '../../sections';
 import { navVarients } from '../../utils/motion'
 import Projects from '../../data/writingProjects.json'
 
@@ -29,6 +29,7 @@ export const writing : NextPage = () => {
                 </div>
             </div>
         </motion.div>
+        <Footer />
     </div>
   )
 }
