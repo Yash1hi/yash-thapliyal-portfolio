@@ -38,7 +38,7 @@ const Navbar = () => {
                 <Link href='/projects/coding'>Coding</Link>
                 <Link href='/projects/media'>Media</Link>
                 <Link href='/projects/writing'>Writing</Link>
-                <Link href='/contact'>Contact</Link>
+                <Link href='/contact' className='font-bold text-lg'>Contact</Link>
             </div>
         </div>
     </motion.nav>

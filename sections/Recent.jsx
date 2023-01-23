@@ -9,7 +9,13 @@ import { navVarients } from '../utils/motion'
 const currentProjects = [
     { title: 'El Estoque News Quiz Website', link: 'https://el-estoque-news-quiz.vercel.app/', image: '/projectImages/EENewsQuiz.png', excerpt: 'A website built I made to create, host, and organize quizzes without having to code', tags: ['Coding', 'Writing', 'Design']},
     { title: 'Girls Soccer defeats Capuchino High School 7-0', link: 'https://elestoque.org/2022/12/12/sports/girls-soccer-defeats-capuchino-high-school-7-0/', image: '/projectImages/SoccerGameReview.jpg', excerpt: 'A game review I wrote with Samika Bhatkar and Vincent Zhao on a recent soccer game at MVHS', tags: ['Writing', 'Photography']},
-    { title: 'Signing Santa Instagram Post', link: 'https://www.instagram.com/p/CmApjwGLiLE/', image: '/projectImages/SigningSantaInsta.jpg', excerpt: "A social media post covering Cupertino's Christmas event for the hard-of-hearing with Ananya Chaudhary", tags: ['Photography']},
+    { 
+        title: "Boy's Basketball 63-53", 
+        link: "https://www.instagram.com/p/Cm5W2NpLI2y/", 
+        image: "/mediaImages/BBB_12-31.jpg", 
+        excerpt: "Varsity Boys Basketball fell 63-53 against Lynbrook High School on Saturday, Dec. 31.", 
+        tags: ['Photography']
+    },,
 ]
 
 /*
