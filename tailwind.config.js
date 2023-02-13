@@ -7,7 +7,11 @@ module.exports = {
     './sections/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        itim: "'Itim', serif",
+      }
+    },
   },
   variants: {
     extend: {

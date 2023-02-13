@@ -11,6 +11,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <link rel="icon" href="/YT_Logo.png" />
         <link rel="preconnect" href="https://stijndv.com" />
         <link rel="stylesheet" href="https://stijndv.com/fonts/Eudoxus-Sans.css" />
+        <link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet"/>
       </Head>
       <Component {...pageProps} />
     </>

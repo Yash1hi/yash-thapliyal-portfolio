@@ -6,7 +6,7 @@ const Contact: NextPage = () => {
   return (
     <div className='bg-gray-500'>
         <Navbar />
-        <div className='bg-gray-500 overflow-hidden w-screen h-screen flex justify-center'>
+        <div className='bg-gray-500 overflow-hidden w-screen h-screen flex justify-center container'>
             <div className='text-lg text-white text-bold'>Work in Progress!</div>
         </div>
         <Footer />
