@@ -19,5 +19,12 @@
         "image": "/projectImages/Portfolio.png", 
         "excerpt": "This portfolio's source code. Created with NextJS, Typescript, TailwindCSS, and Framer-Motion", 
         "tags": []
+    },
+    { 
+        "title": "Tulasi Valentine 2023", 
+        "link": "https://yash-thapliyal-portfolio.vercel.app/valentine/tulasi", 
+        "image": "/projectImages/Tulasi_Valentine.png", 
+        "excerpt": "A small valentines gift that I made for Tulasi", 
+        "tags": []
     }
 ]
