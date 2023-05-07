@@ -1,9 +1,16 @@
-[
+[   
     { 
         "title": "News Quiz Website", 
         "link": "https://el-estoque-news-quiz.vercel.app/", 
         "image": "/projectImages/EENewsQuiz.png", 
-        "excerpt": "A website built I made to create, host, and organize quizzes without having to code", 
+        "excerpt": "A website built I made to create, host, and organize quizzes with a complete backend", 
+        "tags": []
+    },
+    { 
+        "title": "Intermediate C++ Projects", 
+        "link": "https://github.com/Yash1hi/CIS22B_Projects", 
+        "image": "/projectImages/CIS22B.png", 
+        "excerpt": "A collection of projects and assignments from my CIS22B class at De Anza College", 
         "tags": []
     },
     { 
@@ -14,17 +21,17 @@
         "tags": []
     },
     { 
-        "title": "Portfolio", 
-        "link": "https://github.com/Yash1hi/yash-thapliyal-portfolio", 
-        "image": "/projectImages/Portfolio.png", 
-        "excerpt": "This portfolio's source code. Created with NextJS, Typescript, TailwindCSS, and Framer-Motion", 
-        "tags": []
-    },
-    { 
         "title": "Tulasi Valentine 2023", 
         "link": "https://yash-thapliyal-portfolio.vercel.app/valentine/tulasi", 
         "image": "/projectImages/Tulasi_Valentine.png", 
         "excerpt": "A small valentines gift that I made for Tulasi", 
+        "tags": []
+    },
+    { 
+        "title": "Portfolio", 
+        "link": "https://github.com/Yash1hi/yash-thapliyal-portfolio", 
+        "image": "/projectImages/Portfolio.png", 
+        "excerpt": "This portfolio's source code. Created with NextJS, Typescript, TailwindCSS, and Framer-Motion", 
         "tags": []
     }
 ]

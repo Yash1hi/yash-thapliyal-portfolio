@@ -20,7 +20,7 @@ const Hero = () => {
           {/* This is the image of myself that is on the left side*/}
           <div>
             <img 
-              src="/Yash_Headshot_NoBG.png" 
+              src="/No_BG_Headshot.png" 
               alt="Yash Thapliyal" 
               className='h-[70vh] object-cover rounded-[20px] hidden lg:block'
               />
