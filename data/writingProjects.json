@@ -1,5 +1,47 @@
 [
     { 
+        "title": "One nation, under guns", 
+        "link": "https://elestoque.org/2023/04/17/special/one-nation-under-guns/", 
+        "image": "https://elestoque.org/wp-content/uploads/2023/04/Untitled_Artwork-4-900x675.jpg", 
+        "excerpt": "Examining the different perspectives on gun policies and ownership in relation to gun violence in America", 
+        "tags": []
+    },
+    { 
+        "title": "Take our March news quiz", 
+        "link": "https://elestoque.org/2023/04/12/news/take-our-march-news-quiz-2/", 
+        "image": "https://elestoque.org/wp-content/uploads/2023/04/Featured_Image_March-900x506.jpg", 
+        "excerpt": "Test your knowledge of key events last month", 
+        "tags": []
+    },
+    { 
+        "title": "MV Drama opens its curtains to its production “Still Life With Iris”", 
+        "link": "https://elestoque.org/2023/04/10/entertainment/mv-drama-opens-its-curtains-to-its-production-still-life-with-iris/", 
+        "image": "https://elestoque.org/wp-content/uploads/2023/04/IMG_8200-2-900x600.jpg", 
+        "excerpt": "The department holds its 2023 Spring Production", 
+        "tags": ["Best of SNO"]
+    },
+    { 
+        "title": "Students for change: Students Demand Action", 
+        "link": "https://elestoque.org/2023/04/08/uncategorized/students-for-change-students-demand-action/", 
+        "image": "https://elestoque.org/wp-content/uploads/2023/04/Untitled_Artwork-1-1-900x675.jpg", 
+        "excerpt": "Exploring the student run club that protests against gun violence", 
+        "tags": []
+    },
+    { 
+        "title": "EE Tries Sports: Football", 
+        "link": "https://elestoque.org/2023/03/09/sports/ee-tries-sports-football/", 
+        "image": "https://i.ytimg.com/vi/n0RNuVsCi48/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5k7dm0REuYvI7KrYpuegd5-Cjfg", 
+        "excerpt": "El Estoque competes against the MVHS Varsity Football team in Flag Football", 
+        "tags": []
+    },
+    { 
+        "title": "The Economy in Cupertino", 
+        "link": "https://elestoque.org/2023/02/15/news/the-economy-in-cupertino/", 
+        "image": "https://elestoque.org/wp-content/uploads/2023/02/Screen-Shot-2023-02-15-at-8.09.14-PM-1-900x481.png", 
+        "excerpt": "Exploring changes in the Cupertino economy", 
+        "tags": []
+    },
+    { 
         "title": "Take our November news quiz", 
         "link": "https://elestoque.org/2022/12/16/news/take-our-november-news-quiz-2/", 
         "image": "https://elestoque.org/wp-content/uploads/2022/12/Featured_Image-900x643.png", 
@@ -35,17 +77,17 @@
         "tags": []
     },
     { 
+        "title": "Idolization", 
+        "link": "https://eeidolization.carrd.co/", 
+        "image": "https://elestoque.org/wp-content/uploads/2022/10/Screen-Shot-2022-10-07-at-9.48.44-AM-e1665201094558.png", 
+        "excerpt": "Exploring how the idolization of various people, lifestyles and features pervades our lives", 
+        "tags": []
+    },
+    { 
         "title": "Sigma supremacy sweeps MVHS", 
         "link": "https://elestoque.org/2022/10/12/opinion/sigma-supremacy-sweeps-mvhs/", 
         "image": "https://elestoque.org/wp-content/uploads/2022/10/Screen_Shot_2022_08_23_at_4.22.21_PM.0-900x600.webp", 
         "excerpt": "Examining the negative impact of sigma male culture on the MVHS community", 
-        "tags": []
-    },
-    { 
-        "title": "Idolization", 
-        "link": "https://eeidolization.carrd.co/", 
-        "image": "https://elestoque.org/wp-content/uploads/2022/10/Screen-Shot-2022-10-07-at-9.48.44-AM-e1665201094558.png", 
-        "excerpt": "https://elestoque.org/wp-content/uploads/2022/10/Screen-Shot-2022-10-07-at-9.48.44-AM-e1665201094558.png    ", 
         "tags": []
     }
 ]
