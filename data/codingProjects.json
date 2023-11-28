@@ -21,13 +21,6 @@
         "tags": []
     },
     { 
-        "title": "Tulasi Valentine 2023", 
-        "link": "https://yash-thapliyal-portfolio.vercel.app/valentine/tulasi", 
-        "image": "/projectImages/Tulasi_Valentine.png", 
-        "excerpt": "A small valentines gift that I made for Tulasi", 
-        "tags": []
-    },
-    { 
         "title": "Portfolio", 
         "link": "https://github.com/Yash1hi/yash-thapliyal-portfolio", 
         "image": "/projectImages/Portfolio.png", 
